@@ -1,0 +1,12 @@
+1- El cliente requiere un método, forma o sistema que registre las ventas de comida, los salarios de los empleados y los gastos del negocio, para generar reportes que le den una noción de el estado económico del negocio, y si este es rentable
+
+2 - * Construir una aplicación web o un ejecutable que cumpla con la facturación del negocio
+*cuadernos de registro y generación de recibos para el control de las ventas
+*Hacer uso de herramientas ya existentes de pago, como aplicaciones de facturación electrónica que cumplan con los requerimientos
+*Buscar un profesional en el área de administración que se encargue del área contable
+
+3- la construcción de una aplicación tendrá un tiempo de espera, además de un costo agregado el cual puede ser muy alto dependiendo los requerimientos, pero tendrá todas las funcionalidades necesarias para su funcionamiento correcto
+- La solución más barata son los cuadernos de registro, pero también la que tendrá más trabajo de mano de obra y posibilidad de error
+- Aplicaciones ya existentes tendrán un costo el cual puede ser mayor o menor a la construcción dependiendo el caso, pero no tendrán tiempo de espera, con la desventaja de no tener funcionalidades que necesite o tener funcionalidades que nunca usará
+- añadir a un profesional en el área contable será caro pero tendrá ventajas a futuro y sería una de los soluciones más rápidas
+Dado el contexto del negocio, la mejor solución son los cuadernos de contabilidad, ya que los gastos fuertes en un contexto en el cual no sabes si tienes ganancias llegarán a ser muy peligrosos
